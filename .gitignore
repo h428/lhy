@@ -1,0 +1,17 @@
+**/.idea
+**/target/
+**/target/**
+*.iml
+*.jar
+**/.mvn
+**/.mvn/
+**/.mvn/**
+**/mvnw
+**/mvnw.cmd
+**/rebel.xml
+*.zip
+.ipynb_checkpoints
+libriphone
+*.ckpt
+*.csv
+**/runs
